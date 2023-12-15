@@ -1,0 +1,28 @@
+/* src/App.css */
+body {
+  background: linear-gradient(45deg, rgb(67, 250, 97), rgb(23, 78, 1));
+}
+
+  
+  .robot-container{
+    text-align: center;
+    border: 1px solid lightgray;
+    
+  }
+
+
+  
+  
+  .input {
+    padding: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+  }
+
+  .people {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+  
